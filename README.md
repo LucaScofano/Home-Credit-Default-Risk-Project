@@ -8,7 +8,7 @@ We tackled different steps to achieve our goal:
 
 1. Importing all the datasets
 
-2.Quick analysis of the main datasets
+2. Quick analysis of the main datasets
 
 3.Feature Engineering as well as One hot encoding
 
