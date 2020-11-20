@@ -10,8 +10,8 @@ We tackled different steps to achieve our goal:
 
 2. Quick analysis of the main datasets
 
-3.Feature Engineering as well as One hot encoding
+3. Feature Engineering as well as One hot encoding
 
-4.Cross- validation model (K-fold)
+4. Cross- validation model (K-fold)
 
-5.Light GBM model and ROC-AUC score
+5. Light GBM model and ROC-AUC score
